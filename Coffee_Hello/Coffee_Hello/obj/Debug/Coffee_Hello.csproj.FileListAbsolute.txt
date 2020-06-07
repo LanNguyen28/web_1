@@ -1,0 +1,166 @@
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\Coffee_Hello.dll.config
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\Coffee_Hello.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\Coffee_Hello.pdb
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\csc.exe
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\csc.exe.config
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\csc.rsp
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\csi.exe
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\csi.exe.config
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\csi.rsp
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\System.AppContext.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Console.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\System.IO.Compression.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Security.Claims.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\System.ValueTuple.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\vbc.exe
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\vbc.exe.config
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\vbc.rsp
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\VBCSCompiler.exe
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\Antlr3.Runtime.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\Newtonsoft.Json.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\System.Web.Helpers.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\System.Web.Mvc.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\System.Web.Optimization.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\System.Web.Razor.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\System.Web.WebPages.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\System.Web.WebPages.Razor.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\WebGrease.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\System.Web.Helpers.xml
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\System.Web.Mvc.xml
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\System.Web.Optimization.xml
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\System.Web.Razor.xml
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\System.Web.WebPages.xml
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\System.Web.WebPages.Razor.xml
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\Newtonsoft.Json.xml
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\Antlr3.Runtime.pdb
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\obj\Debug\Coffee_Hello.csprojAssemblyReference.cache
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\obj\Debug\Coffee_Hello.csproj.CoreCompileInputs.cache
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\obj\Debug\Coffee_Hello.csproj.CopyComplete
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\obj\Debug\Coffee_Hello.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\obj\Debug\Coffee_Hello.pdb
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\EntityFramework.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\EntityFramework.SqlServer.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\EntityFramework.xml
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\EntityFramework.SqlServer.xml
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\Models.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\Models.pdb
+C:\Users\Adnib\source\repos\Coffee_Hello\Coffee_Hello\bin\Models.dll.config
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\Coffee_Hello.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\Coffee_Hello.pdb
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\csc.exe
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\csc.exe.config
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\csc.rsp
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\csi.exe
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\csi.exe.config
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\csi.rsp
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\System.AppContext.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Console.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\System.IO.Compression.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\System.IO.Pipes.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Security.Claims.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\System.ValueTuple.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Xml.XPath.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\vbc.exe
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\vbc.exe.config
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\vbc.rsp
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\VBCSCompiler.exe
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\Antlr3.Runtime.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\EntityFramework.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\EntityFramework.SqlServer.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\Models.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\Newtonsoft.Json.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\System.Web.Helpers.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\System.Web.Mvc.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\System.Web.Optimization.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\System.Web.Razor.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\System.Web.WebPages.Deployment.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\System.Web.WebPages.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\System.Web.WebPages.Razor.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\WebGrease.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\Models.pdb
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\Models.dll.config
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\EntityFramework.xml
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\EntityFramework.SqlServer.xml
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\System.Web.Helpers.xml
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\System.Web.Mvc.xml
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\System.Web.Optimization.xml
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\System.Web.Razor.xml
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\System.Web.WebPages.xml
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\System.Web.WebPages.Deployment.xml
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\System.Web.WebPages.Razor.xml
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\Newtonsoft.Json.xml
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\Antlr3.Runtime.pdb
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\obj\Debug\Coffee_Hello.csprojAssemblyReference.cache
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\obj\Debug\Coffee_Hello.csproj.CoreCompileInputs.cache
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\obj\Debug\Coffee_Hello.csproj.CopyComplete
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\obj\Debug\Coffee_Hello.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\obj\Debug\Coffee_Hello.pdb
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Coffee_Hello\bin\Coffee_Hello.dll.config

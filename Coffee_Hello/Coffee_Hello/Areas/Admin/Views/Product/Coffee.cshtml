@@ -1,0 +1,35 @@
+﻿@model List<Models.EF.PRODUCT>
+
+@{
+    ViewBag.Title = "Coffee";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div class="category1">
+    <ul class="nav nav-tabs nav-fill">
+        <li class="nav-item ">@Html.ActionLink("All", "Index", "Product", null, new { @class = "nav-link " })</li>
+        <li class="nav-item ">@Html.ActionLink("Coffee", "Coffee", "Product", null, new { @class = "nav-link active" })</li>
+        <li class="nav-item ">@Html.ActionLink("Drink", "Drink", "Product", null, new { @class = "nav-link " })</li>
+        <li class="nav-item ">@Html.ActionLink("Dessert", "Dessert", "Product", null, new { @class = "nav-link " })</li>
+        <li class="nav-item ">@Html.ActionLink("MainDish", "MainDish", "Product", null, new { @class = "nav-link " })</li>
+    </ul>
+</div>
+
+@{
+    Html.RenderPartial("_Product");
+}
+
+@section SP
+{
+    <div class="sidebar-wrapper">
+        <ul class="nav">
+            <li class="active ">
+                @Html.ActionLink("Sản Phẩm", "Index", "Product", new { @class = "click" })
+            </li>
+            <li>
+                @Html.ActionLink("List TK Khách Hàng","Index","Customer",new {@class= "click" })
+            </li>
+        </ul>
+    </div>
+}
+

@@ -1,0 +1,64 @@
+﻿@model List<Models.EF.PRODUCT>
+
+
+<div class="content">
+    <div class="row">
+        <div class="col-lg-4 col-md-4 col-sm-6">
+            <div class="card card-stats">
+                <div class="card-body ">
+                    <div class="row">
+                        <div class="col-12 col-md-12">
+                            <a href="addsp.html"><img src="~/Assets/Home/images/add.png"></a>
+                        </div>
+                        <div class="col-6 col-md-12 add">
+                            <p> </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-footer ">
+                    <hr>
+                    <div class="add">
+                        Thêm sản phẩm
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        @foreach (var item in Model)
+        {
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <div class="card card-stats">
+                    <div class="card-body ">
+                        <div class="row">
+                            <div class="col-12">
+                                <img src="@item.ShowImage">
+                            </div>
+                            <div class="col-8 value">
+                                <p class="card-text">@item.ProductName </p>
+                            </div>
+                            <div class="col-4 ">
+                                <p class="gia">@item.ProductPrice $</p>
+                            </div>
+                        </div>
+                        <hr>
+                    </div>
+                    <div class="card-footer ">
+                        <div class="row">
+                            <div class="col-6">
+                                <button class="btn btn-sm btn-outline-secondary">@Html.ActionLink("Edit", "Edit", "Product", new { id = item.ProductID }, null)</button>
+                            </div>
+                            <div class="col-6">
+                                <button class="btn btn-sm btn-outline-secondary">@Html.ActionLink("Delete", "Delete", "Product", new { id = item.ProductID }, null)</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+
+
+
+    </div>
+</div>
+
+

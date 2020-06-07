@@ -1,0 +1,24 @@
+C:\Users\Adnib\source\repos\Coffee_Hello\Models\bin\Debug\Models.dll.config
+C:\Users\Adnib\source\repos\Coffee_Hello\Models\bin\Debug\Models.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Models\bin\Debug\Models.pdb
+C:\Users\Adnib\source\repos\Coffee_Hello\Models\bin\Debug\EntityFramework.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Models\bin\Debug\EntityFramework.xml
+C:\Users\Adnib\source\repos\Coffee_Hello\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adnib\source\repos\Coffee_Hello\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Adnib\source\repos\Coffee_Hello\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\Adnib\source\repos\Coffee_Hello\Models\obj\Debug\Models.dll
+C:\Users\Adnib\source\repos\Coffee_Hello\Models\obj\Debug\Models.pdb
+C:\Users\Adnib\source\repos\Coffee_Hello\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Models\bin\Debug\Models.dll.config
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Models\bin\Debug\Models.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Models\bin\Debug\Models.pdb
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Models\bin\Debug\EntityFramework.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Models\bin\Debug\EntityFramework.xml
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Models\obj\Debug\Models.dll
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Models\obj\Debug\Models.pdb
+C:\Users\UTLOI\OneDrive\Máy tính\Coffee_Hello\Coffee_Hello\Models\obj\Debug\Models.csprojAssemblyReference.cache

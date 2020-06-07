@@ -1,0 +1,69 @@
+﻿@{
+    Layout = null;
+}
+@model Coffee_Hello.Areas.Admin.Models.LoginModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Login </title>
+    <!-- Import Bootstrap and JQuery -->
+    <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">-->
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+    <link href="~/Assets/Home/css/stylelogin.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container-fluid bg">
+        <div class="row justify-content-center">
+            <div class="col-md-3 col-sm-6 col-xs-12 row-container">
+                @using (Html.BeginForm())
+                {
+                    <h1>Đăng Nhập</h1>
+                    @Html.ValidationSummary(false, "", new { @class = "text-danger" });
+                    @Html.AntiForgeryToken()
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="form-group">
+                                <label>User Name</label>
+                                @Html.TextBoxFor(model => model.UserName, new { @class = "from-control", @placeholder = "Username", @autofocus = "autofocus" })
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="form-group">
+                                <label>Password</label>
+                                @Html.PasswordFor(model => model.Password, new { @class = "form-control" })
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="form-check">
+                                <label>
+                                    @Html.CheckBoxFor(model => model.Rememberme)
+                                    Remember Me
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-7 font">
+                            <a href="add.html"><p>Đăng Kí</p></a>
+                        </div>
+                        <div class="col-md-5 font">
+                            <button type="submit" class="btn btn-success btn-block">Login</button>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+

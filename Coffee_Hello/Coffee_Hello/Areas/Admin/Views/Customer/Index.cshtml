@@ -1,0 +1,69 @@
+﻿@model List<Models.EF.CUSTOMER>
+
+@{
+    ViewBag.Title = "View";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div class="content">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card card-plain">
+                <div class="card-header">
+                    <h4 class="card-title"> Danh sách tài khoản của khách hàng</h4>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table">
+                            <thead class=" text-primary">
+                                <tr>
+                                    <th>
+                                        UserName
+                                    </th>
+                                    <th>
+                                        Password
+                                    </th>
+                                    <th>
+                                        Email
+                                    </th>
+                                    <th>
+                                        Name
+                                    </th>
+                                    <th>
+                                        Create Date
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>@item.CustomerUsername</td>
+                                        <td>@item.CustomerPassword</td>
+                                        <td>@item.CustomerEmail</td>
+                                        <td>@item.CustomerName</td>
+                                        <td>@(item.CreatedDate.HasValue ? item.CreatedDate.Value.ToString("dd/MM/yyy") : "")</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section KH
+{
+<div class="sidebar-wrapper">
+    <ul class="nav">
+        <li>
+            @Html.ActionLink("Sản Phẩm", "Index", "Product", new { @class = "click" })
+        </li>
+        <li class="active">
+            @Html.ActionLink("List TK Khách Hàng", "Index", "Customer", new { @class = "click" })
+        </li>
+    </ul>
+</div>
+}
