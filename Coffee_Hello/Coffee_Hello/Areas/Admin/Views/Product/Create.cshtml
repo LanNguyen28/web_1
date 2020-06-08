@@ -1,99 +1,97 @@
 ﻿@model Models.EF.PRODUCT
 
 @{
-    /**/
 
     ViewBag.Title = "Create";
     Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
 }
 
-<h2>Create</h2>
 
-@using (Html.BeginForm())
-{
-    @Html.AntiForgeryToken()
+                    @using (Html.BeginForm())
+                    {
+                        @Html.AntiForgeryToken()
 
-    <div class="row">
-        <div class="col-12">
-            <div class="form-group">
-                <label>Product Name</label>
-                @Html.TextBoxFor(model => model.ProductName, new { @class = "form-control", placeholder = "Capuchino ...." })
-                @Html.ValidationMessageFor(model => model.ProductName, null, new { @class = "danger" })
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-12">
-            <div class="form-group">
-                <label>Product Description</label>
-                @Html.TextBoxFor(model => model.ProductDescription, new { @class = "form-control", placeholder = "Capuchino ...." })
-                @Html.ValidationMessageFor(model => model.ProductDescription, null, new { @class = "danger" })
-            </div>
-        </div>
-    </div>
-
-
-    <div class="col-4">
-        <div class="form-group">
-            <label>Product Price</label>
-            @Html.TextBoxFor(model => model.ProductPrice, new { @class = "form-control", placeholder = "Capuchino ...." })
-            @Html.ValidationMessageFor(model => model.ProductPrice, null, new { @class = "danger" })
-        </div>
-    </div>
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="form-group">
+                                    <label>Product Name</label>
+                                    @Html.TextBoxFor(model => model.ProductName, new { @class = "form-control", placeholder = "Capuchino ...." })
+                                    @Html.ValidationMessageFor(model => model.ProductName, null, new { @class = "danger" })
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="form-group">
+                                    <label>Product Description</label>
+                                    @Html.TextBoxFor(model => model.ProductDescription, new { @class = "form-control", placeholder = "Capuchino ...." })
+                                    @Html.ValidationMessageFor(model => model.ProductDescription, null, new { @class = "danger" })
+                                </div>
+                            </div>
+                        </div>
 
 
-    <div class="row">
-        <div class="col-12">
-            <div class="form-group">
-                <label>Image Link</label>
-                @Html.TextBoxFor(model => model.ShowImage, new { @class = "form-control", placeholder = "Capuchino ...." })
-                @Html.ValidationMessageFor(model => model.ShowImage, null, new { @class = "danger" })
-            </div>
-        </div>
-    </div>
+                        <div class="col-4">
+                            <div class="form-group">
+                                <label>Product Price</label>
+                                @Html.TextBoxFor(model => model.ProductPrice, new { @class = "form-control", placeholder = "Capuchino ...." })
+                                @Html.ValidationMessageFor(model => model.ProductPrice, null, new { @class = "danger" })
+                            </div>
+                        </div>
 
 
-    <div class="form-group">
-        @Html.LabelFor(model => model.CreatedDate, htmlAttributes: new { @class = "control-label col-md-2" })
-        <div class="col-md-10">
-            @Html.EditorFor(model => model.CreatedDate, new { htmlAttributes = new { @class = "form-control", } })
-            @Html.ValidationMessageFor(model => model.CreatedDate, "", new { @class = "text-danger" })
-        </div>
-    </div>
-
-    <div class="form-group">
-        @Html.LabelFor(model => model.Size, htmlAttributes: new { @class = "control-label col-md-2" })
-        <div class="col-md-10">
-            @Html.EditorFor(model => model.Size, new { htmlAttributes = new { @class = "form-control" } })
-            @Html.ValidationMessageFor(model => model.Size, "", new { @class = "text-danger" })
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-4 ">
-            <div class="form-group">
-                <label>Category</label>
-
-                @Html.DropDownListFor(model => model.CategoryID, new List<SelectListItem>()
-                {
-                    new SelectListItem(){Selected = true, Text = "Coffee",Value = "1"},
-                    new SelectListItem(){Selected = true, Text = "Drink",Value = "2"},
-                    new SelectListItem(){Selected = true, Text = "Dessert",Value = "3"},
-                    new SelectListItem(){Selected = true, Text = "Main Dish",Value = "4"},
-                }, new { @class = "form-control"})
-
-            </div>
-        </div>
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="form-group">
+                                    <label>Image Link</label>
+                                    @Html.TextBoxFor(model => model.ShowImage, new { @class = "form-control", placeholder = "Capuchino ...." })
+                                    @Html.ValidationMessageFor(model => model.ShowImage, null, new { @class = "danger" })
+                                </div>
+                            </div>
+                        </div>
 
 
-        <div class="form-group">
-            <div class="col-md-offset-2 col-md-10">
-                <input type="submit" value="Create" class="btn btn-default" />
-            </div>
-        </div>
-    </div>
-}
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.CreatedDate, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.CreatedDate, new { htmlAttributes = new { @class = "form-control", } })
+                                @Html.ValidationMessageFor(model => model.CreatedDate, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
 
-<div>
-    @Html.ActionLink("Back to List", "Index")
-</div>
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Size, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.Size, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.Size, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-4 ">
+                                <div class="form-group">
+                                    <label>Category</label>
+
+                                    @Html.DropDownListFor(model => model.CategoryID, new List<SelectListItem>()
+                                    {
+                                        new SelectListItem(){Selected = true, Text = "Coffee",Value = "1"},
+                                        new SelectListItem(){Selected = true, Text = "Drink",Value = "2"},
+                                        new SelectListItem(){Selected = true, Text = "Dessert",Value = "3"},
+                                        new SelectListItem(){Selected = true, Text = "Main Dish",Value = "4"},
+                                    }, new { @class = "form-control"})
+
+                                </div>
+                            </div>
+
+
+                            <div class="form-group">
+                                <div class="col-md-offset-2 col-md-10">
+                                    <input type="submit" value="Create" class="btn btn-default" />
+                                </div>
+                            </div>
+                        </div>
+                    }
+
+                    <div>
+                        @Html.ActionLink("Back to List", "Index")
+                    </div>
