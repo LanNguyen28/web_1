@@ -1,0 +1,21 @@
+﻿@using Models.EF;
+@using Models.Dao;
+@{
+    var cart = Session["CartSession"] as CartModel;
+}
+<ul class="nav navbar-nav navbar-right">
+    <li>
+        <a href="@Url.Action("Index", "Cart")">
+            <span class="glyphicon glyphicon-shopping-cart"></span>
+            @if (cart == null)
+            {
+                <span>0 sản phẩm</span>
+            }
+            else
+            {
+                <span>@cart.getCount() sản phẩm</span>
+            }
+        </a>
+    </li>
+</ul>
+
